@@ -115,6 +115,10 @@ input[type="search"] {
 	-webkit-appearance:textfield;
 	box-sizing:content-box
 }
+input[type="text"] {
+	border: 1px solid #ccc;
+	border-radius: 3px;
+}
 input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration {
 	-webkit-appearance:none
 }
